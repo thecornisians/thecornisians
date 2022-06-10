@@ -1,4 +1,5 @@
-![Uploading corneliusowusu-ansah.png…]()
+
+![corneliusowusu-ansah](https://user-images.githubusercontent.com/84820874/173140548-bb04aa91-1c78-4d6e-b882-35a447eac015.png)
 
 <h1 align="center">Hi 👋, I'm Cornelius Owusu-Ansah</h1>
 <h3 align="center">A Fullstack Software engineering with a passion for building products that makes people's lives better</h3>
