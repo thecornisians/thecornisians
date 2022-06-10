@@ -1,5 +1,7 @@
+![Uploading corneliusowusu-ansah.png…]()
+
 <h1 align="center">Hi 👋, I'm Cornelius Owusu-Ansah</h1>
-<h3 align="center">A frontend developer from Ghana</h3>
+<h3 align="center">A FUllstack Software engineering with a passion for building products that makes people's lives better</h3>
 
 <p align="left"> <a href="https://twitter.com/thecornisians" target="blank"><img src="https://img.shields.io/twitter/follow/thecornisians?logo=twitter&style=for-the-badge" alt="thecornisians" /></a> </p>
 
