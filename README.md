@@ -2,7 +2,7 @@
 ![corneliusowusu-ansah](https://user-images.githubusercontent.com/84820874/173140548-bb04aa91-1c78-4d6e-b882-35a447eac015.png)
 
 <h1 align="center">Hi 👋, I'm Cornelius Owusu-Ansah</h1>
-<h3 align="center">A Fullstack Software engineer with a passion for building products that makes people's lives better</h3>
+<h3 align="center">A Fullstack Software engineer with a passion for building products that makes people's lives better. Looking forward to connecting with you </h3>
 
 <p align="left"> <a href="https://twitter.com/thecornisians" target="blank"><img src="https://img.shields.io/twitter/follow/thecornisians?logo=twitter&style=for-the-badge" alt="thecornisians" /></a> </p>
 
