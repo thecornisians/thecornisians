@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **node.js, react**
 
-- 👨‍💻 My projects are available at [https://corneliusowans.vercel.com/](https://corneliusowans.vercel.com/)
+- 👨‍💻 My projects are available at [https://corneliusowans.vercel.app/](https://corneliusowans.vercel.app/)
 
 - 📫 How to reach me **thecornisians(at)gmail.com**
 
